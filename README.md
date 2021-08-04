@@ -1,7 +1,7 @@
 # login_ui
 ##ScreenShot
 <p align="center">
-  <img src="https://github.com/saicharansigiri/Foodie_Diary/blob/main/images/foodie_diary1.png" width="350" title="hover text">
+  <img src="https://github.com/saicharansigiri/Flutter_login_ui/blob/master/flutter_login_ui.jpg" width="350" title="hover text">
   
 </p>
 
